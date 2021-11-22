@@ -7,3 +7,6 @@
 alonso-m/alonso-m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a target="_blank" href="https://github.com/alonso-m">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alonso-m&show_icons=true&count_private=true&hide=stars" />
+</a>
